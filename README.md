@@ -1,2 +1,2 @@
 # First
-The trial project.
+The first project.
